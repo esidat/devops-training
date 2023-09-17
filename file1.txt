@@ -1,4 +1,0 @@
-This is my first text file
-added more data to verify the unstaged changes
-
-added 3rd line to verify the commit
